@@ -3,9 +3,6 @@
 ## Team Members
 
 - Tomas Fontes
-- Eyob Daniel Teffera
-- Soraya de Moura Vilela da Skavinski
-- Wisdom Samuel Etim
 
 ## Project Overview
 
